@@ -7,7 +7,7 @@ A simple manga read web, based on NextJS
 ![Website View](public/webview.png)
 
 ## API Source
-Github For : 
+Github For : https://github.com/AzwarKusumah/ryukomik
 This project using public api from [KatowProject](https://github.com/KatowProject/komikato_py)
 
 ## Features
